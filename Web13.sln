@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web13", "Web13.csproj", "{58FAE644-A916-2E50-90DD-F8600A29FDAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web13UI", "..\Web13UI\Web13UI.csproj", "{9AD64D52-2B5C-43B9-BCA9-1D909FF28A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FAE644-A916-2E50-90DD-F8600A29FDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FAE644-A916-2E50-90DD-F8600A29FDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FAE644-A916-2E50-90DD-F8600A29FDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FAE644-A916-2E50-90DD-F8600A29FDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD64D52-2B5C-43B9-BCA9-1D909FF28A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD64D52-2B5C-43B9-BCA9-1D909FF28A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD64D52-2B5C-43B9-BCA9-1D909FF28A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD64D52-2B5C-43B9-BCA9-1D909FF28A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {591797E4-6DDD-4588-8EEA-87BD7B9D0131}
+	EndGlobalSection
+EndGlobal

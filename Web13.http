@@ -1,0 +1,6 @@
+@Web13_HostAddress = http://localhost:5153
+
+GET {{Web13_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
