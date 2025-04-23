@@ -15,5 +15,6 @@ namespace Web13.Data
         }
 
         public DbSet<Web13.Models.Product> Product { get; set; } = default!;
+        public DbSet<Web13.Models.User> User { get; set; } = default!;
     }
 }
